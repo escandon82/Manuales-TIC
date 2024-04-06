@@ -1,0 +1,80 @@
+Question 1
+Your company has decided to implement the DevOps methodology within its organization and has assigned you the daunting task of setting up a support structure to help the project succeed. Your first decision will be:
+
+to set up a DevOps team responsible for automating the entire application lifecycle
+
+
+Question 2
+Your boss has asked you to give a presentation explaining the advantages of the DevOps approach to the board of directors. You've researched all the advantages and you're ready to present your findings. What advantages does DevOps bring to an organization?
+
+Careful, there are several correct answers.
+
+Reduced “time to market”
+
+Development and operations working and improving together
+
+Automation of many parts of the application delivery lifecycle
+
+
+Question 3
+You've decided to set up a dedicated team to guarantee high availability for your critical system. This team is responsible for ensuring that defined indicators are met to ensure that the application is of the highest quality. If the application availability doesn't meet the standards, financial penalties are applied. What is the main indicator to monitor?
+
+SLI
+
+
+Question 4
+The same team needs to prioritize the monitoring of certain key metrics to ensure application availability. The team is free to select the metrics it wants to use, but certain indicators should be included as a minimum. What are these key indicators?
+
+Careful, there are several correct answers.
+
+Latency
+
+Errors
+
+Saturation
+
+Traffic
+
+
+Question 5
+You've just implemented the DevOps approach within your organization. During a discussion with a colleague, they tell you they’d really like to follow this approach and ask about the essential components of DevOps. As an expert on the subject, you tell them:
+
+Careful, there are several correct answers.
+
+Culture
+
+Measurement
+
+Sharing
+
+Automation
+
+
+Question 6
+As part of the implementation of DevOps within your organization, your manager asks you for your expert opinion on the subject. After interviewing members of the Dev and Ops teams, you notice that the Ops team has no tools for application deployment and that the Dev team only speaks to the Ops team very rarely. What advice do you give to your manager?
+
+Careful, there are several correct answers.
+
+You ask the Dev and Ops teams to come up with a common objective together and to express their views on the application.
+
+
+You advise them to set up a temporary team of DevOps coaches, who will help the teams to adopt a DevOps approach in their work.
+
+
+Question 7
+What are the advantages of automation within the DevOps approach?
+
+Careful, there are several correct answers.
+
+Avoiding human error by scripting all of the tasks that need completing in a correct sequence
+
+
+Speeding up application deployment by reducing time taken to create environments
+
+Improving the quality of the application by testing more frequently
+
+
+Question 8
+Why do we need to measure and set up indicators when adopting the DevOps approach?
+
+So that we can have fact-based indicators to improve upon while also improving the application for end-users.

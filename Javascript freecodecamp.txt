@@ -1,0 +1,349 @@
+//Inicialización de variable
+var a = "Hola Mundo"
+console.log(a);
+
+//Suma
+var suma = 15 + 13;
+console.log(suma);
+
+//Resta
+var resta = 15 - 13;
+console.log(resta);
+
+//Multiplicación
+var producto = 5 * 3;
+console.log(producto);
+
+//División
+var cociente = 20 / 2;
+console.log(cociente);
+
+//Resto de una división
+var resto = 5 % 2;
+console.log(resto);
+
+//Incremento de una variable
+var incremento = 20;
+incremento++;
+console.log(incremento);
+
+//Decremento de una variable
+var decremento = 20;
+decremento--;
+console.log(decremento);
+
+//Asignación de Suma
+var asiSuma = 15;
+asiSuma += 5;
+console.log(asiSuma);
+
+//Asignación de Resta
+var asiResta = 15;
+asiResta -= 5;
+console.log(asiResta);
+
+//Asignación de Multiblicación
+var asiProducto = 15;
+asiProducto *= 5;
+console.log(asiProducto);
+
+//Asignación de División
+var asiCociente = 15;
+asiCociente /= 5;
+console.log(asiCociente);
+
+//Cadena con comillas
+var comilla = "Ejemplo con 'Comillas'"
+console.log(comilla)
+
+//Concatenación de cadena
+var miNombre = "John"
+var miNombreCompleto = miNombre + " " + "Smith" + " " + "Ford"
+console.log(miNombreCompleto)
+
+//Longitud de una cadena
+console.log(miNombre.length)
+
+//Notación
+console.log(miNombre[2])
+
+//Último caracter
+console.log(miNombre[miNombre.length - 1])
+
+//Arreglo
+var arreglo = [1,"perro", 3.5];
+console.log(arreglo);
+
+//Acceder a un elemento de un arreglo
+console.log(arreglo[1]);
+
+//Modificar un elemento de un arreglo
+arreglo[1] = "gato"
+console.log(arreglo);
+
+//Arreglo multifuncional
+var arregloMulti = [[1,2,3],["a","b","c"]];
+console.log(arregloMulti[1][2]);
+
+//Método Push (agrega al final)
+var equipos = ["Madrid","Barcelona","Villareal"];
+equipos.push("Bilbao");
+console.log(equipos);
+
+//Método Pop (remueve el último)
+equipos.pop();
+console.log(equipos);
+
+//Método Shift (remueve el primero)
+equipos.shift();
+console.log(equipos);
+
+//Método Unhift (agrega al principio)
+equipos.unshift("Mayorca");
+console.log(equipos);
+
+//Función
+function sumar(x,y) {
+  var suma = x + y;
+  console.log("El resultado es: " + suma);
+}
+sumar(7, 3);
+
+//Booleanos. siempre en minúscula
+console.log(true);
+console.log(false);
+
+
+//Igualdad
+console.log(10 == 10);
+console.log("OK" == "Ok");
+console.log(10 === "10"); //Compara valor y tipo de dato
+
+//Desigualdad
+console.log(10 != 9);
+console.log("OK" != "OK");
+console.log(10 !== "10"); //Compara valor y tipo de dato
+
+//Mayor
+console.log(10 > 9);
+console.log("C" > "A");
+
+//Operador AND
+console.log(true && true);
+
+//Operador OR
+console.log(true || false);
+
+//Operador NOT
+console.log(!false);
+
+//Condicion IF ELSE
+var x = 5;
+if (x < 2){
+  console.log("Es verdad")
+} else {
+  console.log("Es falso")
+}
+
+//Condicion IF ELSEIF
+function clasificar(valor) {
+  if (valor % 2 == 0) {
+    console.log("Divisible entre 2");
+} else if (valor % 3 == 0) {
+    console.log("Divisible entre 3");
+} else {
+    console.log("No es divisible entre las opciones");
+  } 
+}
+
+clasificar(5);
+
+//Switch
+function ordinal(valor) {
+  var mensaje;
+  switch (valor) {
+    case 1:
+      mensaje = "primero";
+      break;
+    case 2:
+      mensaje = "segundo";
+      break;
+    case 3:
+      mensaje = "tercero";
+      break;
+    default:
+      mensaje = "no se sabe"
+      break;
+  }
+  return mensaje;
+}
+console.log(ordinal(3));
+
+//Retorno booleano
+function esMenorQue(a, b) {
+  return a < b;
+} 
+console.log(esMenorQue(3, 6));
+
+//Retorno anticipado
+function raizCuadrada(valor){
+  if (valor < 0){
+    return undefined;
+  }
+  return Math.sqrt(valor);
+}
+console.log(raizCuadrada(-25));
+
+//Objeto
+var miPerro = {
+  "nombre": "Doki",
+  "edad": 10,
+  "peso": 12,
+  "raza": "Dálmata"
+};
+console.log(miPerro.raza);
+
+//Método hasOwnProperty (Verificar si tiene una propiedad)
+var miCuaderno = {
+  "color": "verde",
+  "categoria": 3,
+  "precio": 4.56
+}
+console.log(miCuaderno.hasOwnProperty("color"));
+
+//Ciclo While
+var i = 0;
+while (i <= 3){
+  console.log("Hola Mundo")
+  i++;
+}
+
+//Ciclo For
+var miArreglo = [];
+for (var i = 0; i < 10; i += 2) {
+  miArreglo.push(i);
+}
+console.log(miArreglo);
+
+//Convertir string en number. Sustituir Number(num2)
+const num1 = 10;
+const num2 = '2';
+var result = num1 + +num2;
+console.log(result);
+
+//Operador Rest
+function miFuncion(...args) {
+  console.log(args);
+}
+miFuncion(1,2);
+
+//Operador Spread (descompone un arreglo)
+const numeros = [1, 2, 3];
+function sumare(x, y, z) {
+return x + y + z;
+}
+console.log(sumare(...numeros));
+
+//Iterar un arreglo con FOR
+var arreglo = [4, 6, 8, 2];
+var total = 0;
+for (var i= 0; i < arreglo.length; i++) {
+  total += arreglo[i];
+}
+console.log(total);
+
+//Ciclo DO WHILE
+var x = 16;
+do {
+  console.log(x);
+  x++;
+} while (x < 10);
+
+//Operador condicional (ternario) 
+function minimo(x, y) {
+  return x < y ? x : y;
+}
+console.log(minimo(4,7));
+
+// Multiples ternario
+function comparar(a, b) {
+  return a == b ? "a y b son iguales"
+  : a > b ? "a es mayor que b"
+  : "b es mayor que a";
+}
+console.log(comparar(27,11));
+
+//Constante (debe declararse en mayúscula)
+function calcularArea(radio) {
+  const VALOR_PI = 3.14;
+  if (radio < 0){
+    return undefined;
+  }
+  return VALOR_PI * (radio ** 2);
+}
+console.log(calcularArea(10));
+
+//Función flecha
+const TRES = (x) => x + 3;
+console.log(TRES(4));
+
+//Función flecha (concatenar)
+const CONCATENAR = (array1, array2) => array1.concat(array2);
+console.log(CONCATENAR([1, 2], [3, 4, 5]));
+
+//Valor por defecto
+const INCREMENTAR = (num, defecto = 1) => num + defecto;
+console.log(INCREMENTAR(5, 3));
+
+//Desestructurar un objeto
+const usuario = {
+  persona: "Miguel",
+  edad: 39
+};
+const {persona, edad} = usuario;
+console.log(persona);
+
+//Plantillas (Backstick)
+var nombre = "Cristiano";
+var edade = 38;
+console.log(`Mi nombre es ${nombre} y tengo ${edade} años.`);
+
+//Obejeto conciso
+const crearPersona = (nombre, edad, idioma) => ({nombre, edad, idioma});
+console.log(crearPersona("Benzema", 36, "Francés"));
+
+//Método
+const personal = {
+  nombre: "Isabel",
+  presentarse(){
+    return `¡Hola! Mi nombre es ${this.nombre}.`;
+  }
+};
+console.log(personal.presentarse());
+
+//Clases
+class Mascota {
+  constructor(nombre,edad) {
+    this.nombre = nombre;
+    this.edad = edad;
+  }
+}
+var miMascota = new Mascota("Michi", 12);
+var tuMascota = new Mascota("Doki", 9);
+
+//Get y Set
+class Libro {
+  constructor(autor) {
+    this._autor = autor;
+  }
+  get autor() {
+    return this._autor;
+  }
+  set autor(nuevoAutor) {
+    this._autor = nuevoAutor;
+  }
+}
+const libro = new Libro("anónimo");
+console.log(libro.autor);
+libro.autor = "Gabriel García";
+console.log(libro.autor);

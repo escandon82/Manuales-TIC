@@ -1,0 +1,159 @@
+1.
+¿Qué es Mailable?
+
+Es una clase que puede ser usada para enviar emails.
+
+2.
+¿Qué se considera que es Laravel?
+
+Un framework completo.
+
+3.
+¿Cuál es la forma recomendada para crear un proyecto basado en Laravel?
+
+Usar el instalador de Laravel a través de composer.
+
+4.
+¿Para qué sirve el comando PHP Artisan Serve?
+
+Inicia un servidor web que podemos utilizar para desarrollo.
+
+5.
+¿Qué son las rutas?
+
+Es la forma en la que comunicamos datos con la DB (base de datos).
+
+*****************************
+6.
+¿Qué requiere una ruta para funcionar?
+
+El texto de la ruta y un closure o clase@accion.
+
+7.
+¿Qué es Blade?
+
+Es un template engine.
+
+8.
+¿Puedes incluir código PHP dentro de un Blade Template?
+
+Verdadero.
+
+9.
+¿Qué son los controladores?
+
+Nos permiten controlar cambios en la DB (base de datos).
+
+*****************************
+10.
+¿Qué es dependency injection?
+
+Es un mecanismo que usa Laravel para inyectar las dependencias de objetos o métodos.
+
+11.
+¿Qué es el .env file de Laravel?
+
+Es un archivo en el que podemos establecer las variables de entorno para nuestro proyecto.
+
+12.
+¿Para qué sirven las migraciones en Laravel?
+
+Para migrar datos de una DB (base de datos) a otra.
+
+*****************************
+13.
+¿Para qué sirve el método down, dentro de una migración?
+
+Sirve para revertir una migración.
+
+14.
+¿Qué es Artisan?
+
+Es la interfaz de línea de comandos incluida por Laravel para ayudarnos mientras creamos una app.
+
+15.
+¿Qué es un ORM?
+
+Es una técnica de programación para convertir registros de una base de datos en objetos.
+
+16.
+¿Qué es Eloquent?
+
+Es un ORM incluido por Laravel.
+
+17.
+¿Para qué sirven las rutas tipo recurso?
+
+Las rutas tipo recurso definen todas las acciones básicas de un CRUD.
+
+18.
+¿Podemos extender templetes de Blade?
+
+Verdadero.
+
+19.
+¿Para qué sirve un formulario?
+
+Para enviar datos a nuestra aplicación.
+
+*****************************
+20.
+¿Qué es CSRF?
+
+Cross-site request forgery.
+
+21.
+¿Con cuál método http debemos actualizar entidades?
+
+PUT/PATCH.
+
+22.
+¿Para qué sirve el helper @method que usamos en Blade?
+
+Para evitar errores de CSRF.
+
+*****************************
+23.
+¿Para qué sirve el método http DELETE?
+
+Para eliminar datos.
+
+24.
+¿Por qué es importante validar los formularios?
+
+Todas las anteriores.
+
+25.
+¿Cómo nos ayuda Blade a crear nuestros Templates?
+
+Blade nos proporciona diferentes helpers y además nos brinda métodos para extender.
+
+26.
+¿Para qué relacionamos tablas en una base de datos?
+
+Para relacionar tablas de la base de datos.
+
+27.
+¿Qué representa una relación hasMany?
+
+Que un modelo de un primer tipo contiene o maneja muchos elementos de un segundo tipo.
+
+28.
+¿Qué representa una relación belongsTo?
+
+Que este modelo le pertenece o depende de otro.
+
+29.
+¿Qué es PHP Artisan Tinker?
+
+Es una herramienta de la consola que nos permite hacer pruebas con las clases de nuestro proyecto.
+
+30.
+¿Para qué sirve PHP artisan make:auth?
+
+Crea una estructura base para tener autenticación y registro de usuarios dentro de una app.
+
+31.
+¿Para qué sirve el comando php artisan route:list?
+
+Nos muestra todas las rutas registradas en nuestra app.

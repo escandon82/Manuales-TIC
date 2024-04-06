@@ -1,0 +1,152 @@
+1.
+Según lo visto en clase, lo más importante antes de crear nuestra aplicación (con base de datos), es:
+
+Diseñar la base de datos.
+
+2.
+MySQL es una base de datos tipo:
+
+Relacional
+
+3.
+Los dos tipos más comunes de tablas (por diseño) son:
+
+Catálogo y transacciones
+
+4.
+Al diseñar todas las tablas de una base de datos relacional, una de las grandes ventajas mencionadas en el curso es:
+
+La normalización de los datos.
+
+5.
+El tipo de tablas InnoDB tiene una de sus mayores desventajas en:
+
+La velocidad.
+
+6.
+El tipo de tablas MYISAM es mejor para:
+
+Tablas de tipo transacciones
+
+7.
+Según lo visto en el curso, ¿cuál de los siguientes formatos es correcto (por convención) para nombrar una tabla?
+
+records
+
+8.
+¿Qué columna nunca debe faltar en una tabla de una base de datos relacional?
+
+Un identificador único.
+
+9.
+¿Cuál de los siguientes comandos se usa para listar las bases de datos existentes en la instalación de MySQL?
+
+SHOW DATABASES
+
+10.
+¿Cuál de los siguientes comandos sirve para movernos a una base de datos específica? (supongamos que la base de datos se llama “library”):
+
+USE library;
+
+11.
+El wildcard (caracter para denotar “lo que sea”) en una cadena de caracteres en MySQL es:
+
+( % )
+
+12.
+El caracter para denotar “todas las columnas” en una sentencia SELECT es:
+
+( * )
+
+13.
+El comando para explorar/traer el contenido de una tabla es:
+
+SELECT
+
+14.
+El operador para traer sólo X número de tuplas tras hacer un query es:
+
+LIMIT X
+
+15.
+En MySQL, con una base de datos diseñada con respecto a la convenciones normales (vistas en el curso), las tablas se relacionan unas con otras a través de:
+
+Una columna de identificador.
+
+16.
+¿Cuál de los siguientes es una consulta o query bien formado? (asumamos que existe una tabla llamada books con al menos una columna llamada book_id )
+
+SELECT * FROM books WHERE book_id = 4;
+
+17.
+El operador para cruzar dos o más tablas en MySQL es:
+
+JOIN
+
+18.
+Asumiendo que:
+a) […] FROM books JOIN authors […] y
+b) […] FROM books, authors […]
+son sentencias equivalentes, a la segunda se le conoce comúnmente como:
+
+join explícito
+
+19.
+Asumiendo que existen las tablas books y authors con sus respectivas columnas de identificación, cuál de las siguientes sentencias es correcta a continuación de […] FROM books AS b JOIN authors AS a:
+
+ON a.book_id = b.book_id [...]
+
+20.
+El campo identificador de cualquier tabla, debe ser (con respecto a lo visto en el curso):
+
+INTEGER PRIMARY KEY AUTO_INCREMENT
+
+21.
+¿Cuál de los siguientes tipos de datos no es un dato numérico?
+
+VARCHAR
+
+22.
+Una estrategia útil para almacenar imágenes generadas/usadas por nuestra aplicación en la base de datos es:
+
+Almacenar las urls de las imágenes almacenadas como archivos externos.
+
+23.
+Si queremos que un campo no se pueda repetir en toda la tabla, usamos:
+
+UNIQUE
+
+24.
+En una tabla que almacene los datos personales de nuestros clientes, la restricción de UNIQUE es muy útil en una columna que almacene:
+
+Dirección de correo electrónico
+
+25.
+La función TO_DAYS(fecha) regresa, el número de días desde:
+
+enero 1, 0000
+
+26.
+El comando para modificar el valor de una o más columnas en una tabla es:
+
+UPDATE
+
+27.
+El comando para modificar la estructura de una tabla es:
+
+ALTER
+
+28.
+El formato correcto para agregar una tupla a alguna tabla, es:
+
+INSERT INTO tabla(columna_1, columna_2) VALUES(valor_1, valor_2);
+
+29.
+La sentencia que evita que se dupliquen datos y/o se violen reglas de unicidad en MySQL es:
+
+ON DUPLICATE KEY UPDATE volumna_1 = valor_1;
+
+30.
+Selecciona la única opción correcta para completar el enunciado: el commando UPDATE, por definición permite:
+
+Modificar muchas tuplas al mismo tiempo.

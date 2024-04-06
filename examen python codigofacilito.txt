@@ -1,0 +1,106 @@
+¿Qué se entiende por sobre escritura de métodos?
+***********no es abstracion
+sera? A la acción de poder definir métodos en la clase padre que puedan ser utilizados en las clases hijas.
+
+1 .-
+Palabra reservada que nos permite definir funciones
+def
+
+
+2 .-
+Palabra reservada que nos permite retornar y finalizar una función
+return
+
+
+3 .-
+Siguiendo la convección de la comunidad Python, que función se encuentra correctamente definida:
+****************no es def suma_pares(numero_1 = 10, numero_2 = 20):
+    return numero_1 + numero_2
+
+def suma_pares(numero_1=10, numero_2=20):
+    return numero_1 + numero_2
+
+4 .-
+Dado un diccionario, método el cual nos permite obtener el valor de una llave de forma segura.
+get
+
+
+5 .-
+Método de una lista que nos permite ordenar todos sus elementos.
+sort
+
+
+6 .-
+Dada la siguiente tupla (1, 2, 3, 4, 5) Sentencia valida en Python para almacenar en variables los elementos 1°, 2° y 5°.
+uno,dos*_,cinco
+
+
+7 .-
+Dado el siguiente listado: [1, 2, 3, 4, 5] sentencia Python que nos permite generar una sub lista con los últimos 3 elementos de la lista.
+lista[-3:]
+
+
+8 .-
+Tipo que nos permite represar la ausencia de valor.
+None
+
+
+9 .-
+Cual de las siguientes sentencias dará como resultado un valor falso.
+*************no es 'false' or () or [] 
+será?? () or {} or []
+
+
+10 .-
+Método de los objetos strings que nos permiten alinear el texto a la derecha
+rjust
+
+
+11 .-
+Utilizando interpolación en Python, cual de las siguientes sentencias es correcta.
+f'{username} Hola'
+
+
+12 .-
+Palabra reservada que nos permite eliminar un elemento de un diccionario.
+del
+
+
+13 .-
+Decorador que nos permite convertir un método de instancia a un método de clase.
+classmethod
+
+
+14 .-
+Por convención, que nombre utilizamos para el primer parámetro de nuestros métodos de instancias
+self
+
+
+15 .-
+Cual de los siguientes objetos NO es un diccionario Valido.
+{ {1 2}: 12, (12, 3): True }
+
+
+16 .-
+Función que nos permite leer valores por teclado.
+input
+
+
+17 .-
+Tipo de dato que nos permite definir una colección inmutable.
+Tupla
+
+
+18 .-
+Siguiendo la convección de la comunidad Python, cual de las siguientes definiciones de clase es la correcta.
+UserAdmin
+
+
+19 .-
+Palabra reservada que nos permita saltar a la siguiente iteración, omitiendo todo el código que se encuentre posteriormente.
+*******break (creoqu es continue)
+
+
+20 .-
+Por convección, cuantos espacios usaremos para identar nuestro código.
+4 espacios

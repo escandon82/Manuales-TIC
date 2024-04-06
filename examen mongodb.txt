@@ -1,0 +1,112 @@
+1.
+MongoDB es una base de datos basada en…
+
+documentos.
+
+2.
+¿En qué formato se guardan los datos en MongoDB?
+
+BSON
+3.
+¿MongoDB es Schema Less (Sin esquema)?
+Verdadero
+4.
+¿Para qué sirven los drivers de MongoDB en nuestro backend?
+
+Para poder interactuar con MongoDB desde el código de nuestra aplicación.
+5.
+¿Qué es un ODM en el entorno de MongoDB?
+Object Document Mapper
+
+6.
+¿En un clúster de MongoDB puede haber muchas bases de datos?
+
+Verdadero
+7.
+¿Cuál es la unidad básica dentro de MongoDB?
+Documentos
+8.
+¿Los tipos de datos ObjectId y Date son soportados por JSON?
+
+Falso, esos tipos de datos son soportados por BSON.
+
+9.
+¿Para qué se usan los tipos de datos Decimal?
+
+Guardar valores muy grandes, de 128 bits. Generalmente información financiera.
+10.
+¿En MongoDB pueden haber documentos guardados dentro de otros documentos?
+Verdadero
+11.
+¿En MongoDB es obligatorio que todos los documentos en una colección tengan una misma estructura?
+Falso
+12.
+¿Cuál es la mejor forma de hacer relaciones uno a uno dentro de MongoDB?
+
+Usando documentos embebidos.
+
+13.
+¿Qué son las proyecciones en MongoDB?
+Son un mecanismo que nos permite filtrar los campos de un documento cuando se realiza una querie en MongoDB.
+
+14.
+¿Es lo mismo { <field>: { $eq: <value> } } que { field: <value> }?
+
+Verdadero
+15.
+¿Es lo mismo { $or: [ { }, { }, ... , { } ] } que ({ field: }, { field: }) ?
+Falso
+16.
+Si quiero insertar muchos documentos en la base de datos, ¿qué función debería usar?
+
+insertMany
+17.
+¿Qué ocurre si ejecuto db.collection.deleteMany({})?
+
+Borro todos los documentos de collection.
+
+18.
+¿Qué ocurre si ejecuto db.collection.find({})?
+
+Me retorna todos los documentos de la colección collection.
+
+19.
+¿Qué es MongoDB Compass?
+Una interfaz gráfica para realizar operaciones dentro de un clúster de MongoDB.
+
+20.
+¿Qué son las listas de IP blancas dentro de MongoDB Atlas?
+
+Es una lista de las direcciones IP desde las cuales los usuarios pueden realizar operaciones dentro del clúster de MongoDB.
+
+21.
+¿En MongoDB se pueden guardar arreglos de documentos?
+
+Sí, y es una forma de expresar relaciones uno a muchos.
+
+22.
+¿Si hacemos db.collection.aggregate([]) dentro del arreglo cuántas etapas puede haber?
+
+Las etapas que sean necesarias separadas por coma.
+23.
+¿Para qué son útiles las agregaciones?
+Para extraer información importante de nuestras colecciones.
+
+24.
+¿Es buena práctica guardar la URI de MongoDB Atlas escrita en código dentro de nuestro repositorio público?
+No, porque si alguien tiene acceso a esa URI podría realizar operaciones sobre MongoDB y robar nuestros datos.
+
+25.
+¿Hay forma de encriptar los datos guardados en nuestro clúster dentro de MongoDB Atlas?
+
+Sí hay forma y es una buena práctica.
+26.
+¿A partir de una instancia de MongoClient puedo hacer operaciones CRUD?
+No
+27.
+¿MongoDB es una base de datos distribuida?
+Sí, esto nos permite escalar de forma horizontal.
+28.
+¿Qué hace la función pretty()?
+
+Muestra el resultado de una query en consola de manera más amigable.

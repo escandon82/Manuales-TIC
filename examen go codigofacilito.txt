@@ -1,0 +1,71 @@
+Esta función nos permite retomar el control del programa una vez un error haya sido lanzado a travez de la función panic
+recover
+
+
+Palabra reservada la cual nos permite iterar sobre casa uno de los elementos dentro de un arreglo
+range
+
+
+Forma correcta de iterar sobre cada uno de los elementos de un mapa
+for key, value := range mapa
+
+
+Palabra reservada que nos permite programar la ejecución de una función una vez el bloque que la haya llamado finalice.
+defer
+
+Cual es el valor por default de una variable de tipo int
+0
+
+
+Sentencia correcta para emular un ciclo Do While
+for ok := true; ok; ok = variable != 10 
+
+
+Comando el cual nos permite crear un archivo ejecutable a partir de un archivo .go
+go build
+
+
+Definición correcta de una interfaz
+Una interfaz nos permite definir comportamiento a nuestras estructuras, resolviendo la pregunta qué se debe hacer, pero no el cómo.
+
+
+Función la cual nos permite crear e inicializar arreglos, slices y mapas
+make
+
+
+Estructura de datos que nos permita almacenar múltiples valores a mediante de una llave/valor
+map
+
+
+Correcta definición de una función anonima
+func() { 
+   // cuerpo de la función
+}
+
+
+función que nos permite eliminar una elemento de un Slice
+delete
+
+
+Cuál de las siguientes funciones recibe como argumento un puntero de tipo User.
+func(usuario *User)
+
+
+Función la cual nos permite finalizar el programa de una forma abrupta
+panic
+
+
+Definición correcta de una variadic function
+func miFuncion(valores ...string)
+
+
+Cual de las siguientes sentencias es Incorrecta al momento de declarar una variable de tipo string.
+var usuario := ""
+
+
+Paquete el cual nos permite imprimir en consola
+fmt
+
+
+Palabra reservada la cual nos permite crear un nuevo tipo de dato
+type

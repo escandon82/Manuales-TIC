@@ -1,0 +1,174 @@
+*) ¿Quién despide?
+VP de Ingeniería
+
+
+*) Algo inesperado pero necesario si construyes tu propio Data Center es:
+Aire acondicionado.
+
+
+*) ¿Qué es HTTP?
+Hypertext Transfer Protocol
+
+
+*) Un firewall es algo que funciona con:
+Hardware o Software
+
+
+*) ¿Qué es una API (Application Programming Interface)?
+Una forma de conectar bases de datos con otros sistemas, como front-ends o apps móviles.
+
+
+*) Lo más importante para que tu empresa logre hacer Inteligencia Artificial es tener:
+Muchos datos
+
+
+*) Lo más importante para un equipo de alto rendimiento es tener:
+Seguridad psicológica
+
+
+*) ¿Qué debes hacer con ese “genio” que tienes en tu empresa, que es arrogante y sabelotodo, pero es la única persona que conoce ciertos procesos técnicos de tu equipo?
+Reemplazarlo tan pronto como sea posible.
+
+
+*) UI es:
+La interfaz del usuario.
+
+
+*) ¿A qué se parece más el desarrollo de software?
+A cocinar. Hay reglas, formas correctas e incorrectas, pero es práctica e iteración y un poco de creatividad.
+
+
+*) ¿Qué porcentaje de personas entre 18 a 25 años logran ir a la universidad en Latinoamérica?
+Menos del 15%.
+
+
+*) Idealmente, ¿quién debería hacer la primera entrevista al talento técnico que contrates?
+Director de área
+
+
+*) ¿Cuál es la señal más poderosa de que una candidata a un puesto técnico es la ideal?
+La prueba técnica que la empresa le haga.
+
+
+*) Los desarrolladores de software son perfiles:
+Creativos
+
+
+*) Si con cierto software en tu empresa logras una ventaja competitiva en el mercado, ese software deberías:
+Crearlo en la empresa.
+
+
+*) Si con cierto software en tu empresa logras automatizar algo que ya se automatizó antes en otras empresas, ese software deberías:
+Comprarlo de una solución que ya exista en el mercado.
+
+
+*) Al definir cómo abordar un problema en la empresa con innovación, la pregunta más importante que debemos hacernos primero es:
+¿Por qué?
+
+
+*) ¿Cuál es la diferencia entre Product Owner y un Product Manager?
+La Product Manager gestiona las decisiones técnicas, la Product Owner es la conexión con el modelo de negocio.
+
+
+*) ¿Qué significa QA en el ciclo del software?
+Control de calidad
+
+
+*) El trabajo de ETL (Extraer, Transformar, Cargar) en la compañía es responsabilidad de:
+Data Scientists
+
+
+*) El perfil de quienes gestionan los servidores es:
+DevOps
+
+
+*) En una base de datos, la redundancia de información:
+Se debe evitar con IDs y tablas enlazadas.
+
+
+*) Una VP de Ingeniería es:
+Quien gestiona la parte humana de un equipo técnico.
+
+
+*) Un PM o Product Manager debe saber de:
+Desarrollo de software
+
+
+*) Para cumplir fechas de entrega lo mejor es:
+Entregas cortas iterativas.
+
+
+*) De las siguientes contraseñas, ¿cuál es más segura?
+P0nie5 danzantes en el @ire
+
+
+*) ¿Cuál de las siguientes formas de autenticación de doble factor es más segura?
+Una llave USB como Yubikey.
+
+
+*) Con los documentos impresos en papel, por seguridad, lo mejor es:
+Nunca imprimirlos, solo digital.
+
+
+*) Enviar emails hacia adentro entre empleados de la misma empresa es:
+Un hueco de seguridad.
+
+
+*) Al borrar datos en tu aplicación, lo correcto es:
+Dejar el dato histórico en la base de datos sin borrar nada, solo desaparecerlo de la interfaz.
+
+
+*) En un servidor ubicado en tu oficina puedes tener:
+Cualquier cosa realmente.
+
+
+*) La mayor parte del tráfico de Internet se mueve por:
+Cables submarinos
+
+
+*) La certificación ISO-27001 es una certificación de:
+Seguridad
+
+
+*) ¿En qué casos se usa una certificación en PCI Compliance?
+Al guardar datos de tarjeta de crédito.
+
+
+*) Lo más importante para que tu empresa logre hacer Inteligencia Artificial es tener:
+Muchos datos
+
+
+*) ¿Cuál de las siguientes es una inteligencia artificial que puedes usar en tu negocio?
+Reconocimiento facial
+
+
+*) Entre el 2015 y el 2020 los salarios de programadores han crecido anual en promedio un:
+15%
+
+
+*) Si un desarrollador de software quiere ganar más, lo más rápido es:
+Aprender inglés
+
+
+*) Al talento técnico lo que más los motiva es:
+Crecer como profesionales.
+
+
+*) ¿Qué pasará con los costos de los desarrolladores de software en programación?
+Serán más caros.
+
+
+*) A las personas que no siguen una carrera de gestión de personal sino de crecimiento técnico se les conoce como:
+IC: Individual Contributors
+
+
+*) Para desarrollar inteligencia artificial que le dé una ventaja a mi compañía, lo más importante que necesito es:
+Todos los datos que pueda guardar de mi negocio en un sistema propio.
+
+
+*) ¿Quién está a cargo de crear las rutas de crecimiento del talento técnico del equipo?
+VP de Ingeniería
+
+
+*) La diferencia de salarios entre quienes van a la universidad y los autodidactas es:
+Casi nada

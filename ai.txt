@@ -1,0 +1,106 @@
+Elige la frase correcta: “Para evitar dilemas éticos, tenemos que ______________________________”:
+Evitar tener sesgos de información.
+
+
+¿Generar una bicicleta de estilo montaña es algo que se puede hacer con inteligencia artificial?
+Verdadero, ya que es algo que existe del que existen datos que la IA puede usar para la generación.
+
+
+¿Con una regresión lineal qué tipo de afirmación de las siguientes se podría conseguir?
+A mayor cantidad de profesores en Platzi, mayor cantidad de cursos.
+
+
+¿El árbol de decisión a qué tipo de algoritmos de machine learning pertenece?
+Supervisados
+
+
+En un árbol de decisión, ¿cómo se llaman los puntos en los que tomamos una decisión?
+Hoja
+
+
+¿Quiénes o qué generan los datos?
+Las personas
+
+
+¿De qué sería un ejemplo utilizar datos de movilidad para crear una semaforización inteligente en una ciudad?
+Data4Good
+
+
+¿Cómo se define la inteligencia artificial?
+Es la capacidad de una máquina para realizar tareas que requieren inteligencia humana, como el aprendizaje, la resolución de problemas y la toma de decisiones.
+
+
+¿En qué medida se utiliza la inteligencia artificial en nuestra vida cotidiana?
+Desde los asistentes virtuales en teléfonos, hasta los algoritmos de recomendación en plataformas de streaming y de publicidad.
+
+
+¿Cuál es la principal diferencia entre el aprendizaje supervisado y no supervisado en machine learning?
+El aprendizaje supervisado usa datos etiquetados para entrenar el modelo y hacer predicciones, mientras que el no supervisado utiliza datos no etiquetados para identificar patrones y estructuras.
+
+
+¿Cuáles son las diferencias entre clasificación y regresión en machine learning?
+La clasificación asigna una etiqueta a cada elemento de un conjunto de datos, mientras que la regresión se utiliza para predecir una variable continua.
+
+
+Son aspectos a mejorar en el ámbito de AI.
+Todas las opciones son correctas: Sesgos que discriminan parte de la población.
+
+
+¿El árbol de decisión a qué tipo de algoritmos de machine learning pertenece?
+Supervisados
+
+
+¿Cuál es un ejemplo de inteligencia artificial generativa?
+Un robot que sigue un conjunto de instrucciones programadas para realizar tareas específicas.
+
+
+¿Qué es el objetivo principal del machine learning?
+Entrenar un modelo para que pueda hacer predicciones precisas sobre nuevos datos y al final generar valor.
+
+
+¿Qué tipo de algoritmos se utilizan en el deep learning?
+Se utilizan redes neuronales artificiales, algoritmos inspirados en el cerebro humano.
+
+
+¿Qué es la visión artificial y para qué sirve?
+La visión artificial es una disciplina científica que permite a los ordenadores y sistemas extraer información significativa a partir de imágenes digitales, videos y otras entradas visuales, y tomar acciones o realizar recomendaciones en función de esa información. Sirve para resolver problemas complejos que requieren una comprensión del entorno visual, como el reconocimiento facial, la detección de objetos, la segmentación semántica o la generación de imágenes.
+
+
+¿Cómo podrías usar los modelos de Hugging Face en tus proyectos de IA?
+- Puedes acceder al Hub de Hugging Face, donde puedes explorar, descargar o subir modelos públicos o privados . También puedes probar los Spaces, que son demos interactivas que muestran las capacidades de los modelos. - Puedes integrar la biblioteca Transformers en tu código usando Python o cualquier otro lenguaje compatible con TensorFlow o PyTorch. También puedes usar otras bibliotecas que se integran con Transformers, como spaCy, SpeechBrain o Keras. - Puedes implementar los modelos de Hugging Face en la nube usando servicios como Azure o AWS, que te permiten desplegar y escalar tus soluciones de ML fácilmente.
+
+
+¿Qué tipo de aplicaciones se pueden crear con los Spaces de Hugging Face?
+Se pueden crear aplicaciones de cualquier tipo que usen modelos de NLP o visión computacional. Como generación de texto, traducción, reconocimiento facial, etc.
+
+
+¿Qué beneficios tiene usar autotrain e inference endpoint de Hugging Face?
+Crear modelos personalizados de NLP con datos propios y desplegarlos fácilmente en la nube; reducir el tiempo y el costo de desarrollo; mejorar la calidad y el rendimiento de los modelos; y aprovechar el ecosistema y la comunidad de Hugging Face.
+
+
+¿Cuál era el objetivo del Test de Turing tal como fue concebido en sus orígenes?
+Validar la inteligencia de una máquina mediante su capacidad de mantener una conversación fluida con un ser humano.
+
+
+¿Qué es un árbol de búsqueda en un juego?
+Un diagrama que explora todos los posibles estados de un juego.
+
+
+¿Por qué es importante el álgebra lineal en IA?
+Constituye el lenguaje matemático natural para representar numéricamente todo tipo de objetos complejos como imágenes o texto.
+
+
+¿Por qué es importante el cálculo en IA?
+Porque el proceso mediante el cual aprenden los algoritmos es con la optimización de una función matemática.
+
+
+¿Por qué es necesaria la probabilidad en IA?
+El proceso de optimizar una función para el aprendizaje de un algoritmo siempre trae un grado de incertidumbre, esa incertidumbre se cuantifica con probabilidades.
+
+
+¿Cuál es el propósito principal del aprendizaje por refuerzo en inteligencia artificial?
+NONONO Entrenar un modelo de aprendizaje automático con datos etiquetados.
+
+
+¿Qué desventaja tiene el deep learning respecto al machine learning clásico?
+NONONO El deep learning requiere un mayor ajuste manual y validación cruzada.

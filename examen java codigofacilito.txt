@@ -1,0 +1,100 @@
+Estructura de un ciclo for.
+for(inicialización, condición, iteración)
+
+
+¿Qué es un método de clase?
+Es un método que le pertenece a la clase.
+
+
+Sentencia con la cual podemos concatenar más de dos Strings.
+"Hola " + "mundo" +  " !"
+
+
+¿Qué es un método abstracto?
+Es un método que define que hacer pero no cómo se debe de hacer.
+
+
+Método que nos permite trabajar con una n cantidad de parámetros.
+public int suma(int... numeros) {}
+
+
+Cuando nos encontramos trabajando con herencia, ¿A que hace referencia la palabra reservada super?
+A la clase padre
+
+
+¿Qué es un paquete?
+Es un contenedor el cual nos permitir agrupar diferentes clases bajo un mismo contexto.
+
+
+Forma en la cual podemos declarar un arreglo de diez elementos.
+int arreglo[] = new int[10];
+
+
+Modificador de acceso el cual nos permite exponer un elemento de una clase únicamente a clases y objetos del mismo paquete.
+protected
+
+
+Clases con las cuales podemos obtener datos de entrada por teclado.
+System y Scanner.
+
+
+¿Qué es un método estático?
+Es un método que le pertenece a la clase.
+
+
+¿Qué es el API de java?
+Es un conjunto de clases ya definidas agrupadas en paquetes. Estas clases ya poseen lógica establecida.
+
+
+¿Qué es la sobre escritura de métodos?.
+Es la posibilidad de modificar el comportamiento de un método de la clase padre.
+
+
+Palabra reservada la cual nos permite importar una clase que se encuentra en un paquete distinto.
+import
+
+
+¿En qué caso haremos uso del ciclo for each?
+Cuando necesitemos obtener los elementos de una estructura.
+
+
+En Java es posible la herencia múltiple de clases.
+Falso
+
+
+Palabra reservada la cual nos permite utilizar una interfaz.
+implements
+
+
+¿Qué es la sobrecarga de métodos?
+Es la posibilidad de tener dos o más métodos con el mismo nombre.
+
+
+Principal diferencia entre un ciclo While y un Ciclo Do While.
+El ciclo Do While se ejecutará por lo menos una vez. La condición se evalua después de ejecutar la primera iteración.
+
+
+Dado el siguiente código
+
+int [] arreglo = new int[10];
+
+int valor = arreglo[0];
+System.out.println( valor);
+¿Cuál será la salida en consola?
+0
+
+
+Palabra reservada la cual nos permite heredar de otra clase.
+extends
+
+
+Método el cual nos permite comparar dos Strings.
+equals
+
+
+Estructura del operador ternario.
+expresion1  ? expresion2 : expresion3;
+
+
+¿Cuál es la funcionalidad de JRE (Java Runtime Environment) ?
+Ejecutar programas escritos en Java

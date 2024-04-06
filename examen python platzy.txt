@@ -1,0 +1,100 @@
+1.
+¿Cuál de las siguientes especialidades de la tecnología es más afín a Python?
+Inteligencia Artificial
+2.
+Los pasos de un algoritmo son finitos
+Verdadero
+3.
+¿Por qué debería usar un editor de código para programar?
+Todas las opciones
+
+4.
+¿Qué comando de la consola sirve para moverse entre carpetas?
+cd
+
+5.
+¿Qué comando de la consola sirve para ver los archivos en una carpeta?
+ls
+
+6.
+¿Qué comando de la consola sirve para crear un archivo?
+touch
+
+7.
+¿Cuál es el resultado de la siguiente operación en Python? 10 / 2 + 5 * 7
+
+40
+8.
+¿Qué es una variable?
+Un sector especial, cuyo nombre es un identificador, en donde puedo guardar objetos
+9.
+¿Cuál de los siguientes identificadores es válido y correcto según los estilos de Python?
+mi_variable
+
+10.
+Puedo multiplicar un string por un número entero
+Verdadero
+11.
+¿Cuál es la función que sirve para pedirle datos al usuario por consola?
+input
+
+12.
+Existe una variable de nombre mi_numero que contiene el número 1 como string. ¿Cómo transformo el valor a entero y lo guardo nuevamente en mi_numero?
+
+mi_numero = int(mi_numero)
+
+13.
+Existe una variable es_estudiante con el valor True, y otra variable es_profesor con el valor False. ¿Cuál es el resultado de es_estudiante and es_profesor?
+
+False
+
+14.
+Existe una variable es_estudiante con el valor True, y otra variable es_profesor con el valor False. ¿Cuál es el resultado de es_estudiante or es_profesor?
+
+True
+
+15.
+¿Cuántos espacios debo dejar de sangría para escribir un bloque de código (debajo de una sentencia if, una función o un ciclo)?
+
+4
+16.
+¿Cuál de los siguientes ejemplos de una sentencia if es el correcto?
+
+if numero > 5:
+
+17.
+¿Cuál es la ventaja de definir strings con triple comilla doble (""") ?
+
+Puedes crear una cadena de caracteres de varias líneas
+
+18.
+¿Qué son las funciones?
+Una herramienta que permite ahorrar código escribiendo la lógica solo una vez, para no repetirla en el futuro
+19.
+¿Qué palabra clave se utiliza para crear una función?
+def
+
+20.
+¿Qué método de las strings coloca la primera letra en mayúsculas?
+capitalize
+
+21.
+¿Cuál es el orden correcto de elementos a indicar cuando se trabaja con slices?
+[índice inicial : índice final : pasos]
+
+22.
+¿Cuál de los siguientes ejemplos de una sentencia while es el correcto?
+
+while numero == 3:
+
+23.
+¿Cuál es la función de la palabra clave break?
+
+Cortar la ejecución de un ciclo
+24.
+¿Qué método sirve para agregar un elemento a una lista?
+append
+
+25.
+¿Cuál es la diferencia entre una tupla y una lista?
+Todas las opciones son correctas

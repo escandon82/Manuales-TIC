@@ -1,0 +1,66 @@
+Cuál de los siguientes no es un metadato válido de una página web
+<meta name="location" content="Cd México">
+
+¿Cómo podemos importar una hoja de estilos externa a nuestro documento?
+<link href=”/css/main.css” rel=”stylesheet”>
+
+Cuál de los siguientes selectores toma precedencia en CSS sobre el elemento
+.red#element
+
+Cuál de los siguientes no es un selector válido de CSS
+todos son validos
+
+El siguiente bloque de propiedades centra un elemento vertical y horizontalmente dentro de su contenedor.
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+Propiedad con la que podemos modificar la fuente del texto en CSS
+font-family
+
+A la práctica de diseñar un sitio web primero para teléfonos y luego para pantallas más grandes se le llama:
+Mobile First
+
+A la arquitectura en la que tenemos una computadora con el contenido, y muchos dispositivos accediendo a esta información central se le conoce como:
+Arquitectura cliente / servidor
+
+Qué es IP
+El protocolo con el que identificamos a una computadora o a un router en la red
+
+¿Cómo puedes colocar un comentario en HTML?
+<!-- Comentario -->
+
+Un shorthand property en CSS se refiere a:
+Los valores que asignan valor a distintas propiedades de CSS, en uno solo.
+
+Para que la posición de un elemento no se vea afectada por la barra de scroll debemos asignar la siguiente propiedad y valor:
+position:fixed;
+
+Los valores . y .. cómo se interpretan en las rutas relativas de nuestros archivos
+El punto indica la misma carpeta y los dos puntos la carpeta contenedora.
+
+El concepto de Progressive Enhancement o Mejora Progresiva se refiere a:
+A usar tecnologías modernas para mejorar progresivamente, y no como parte fundamental de la página.
+
+Las siglas .com, .net, son ejemplos de:
+Top Level Domains
+
+Si queremos cambiar el estilo de un elemento, dependiendo de su estado, por ejemplo si el mouse está encima, usamos:
+Pseudo clases
+
+En qué atributo definimos el documento (o dirección web) al que nos queremos mover en una etiqueta link <a></a>
+href
+
+Define el título de la página o la palabra de mayor peso, dentro del body y no debe repetirse más de una vez.
+h1
+
+Cuál de los siguientes bloques de código construiría una tabla válida:
+<table>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+

@@ -1,0 +1,19 @@
+EC2 servidores
+
+S3 almacenamiento de objetos
+
+RDS base de datos  relacionales
+
+ELB balanceador
+
+SQS enviar mensajes entre componentes de sw
+
+Aurora una bd?
+
+dynamoDB bd no relacional
+
+Redshift bd basado en PostgreSQL, olap, es columnar
+
+DocumentDB basado en documentos MongoDB
+
+

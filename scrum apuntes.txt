@@ -1,0 +1,108 @@
+Equipo de Scrum
+
+El equipo de Scrum es auto organizado y multifuncional.
+
+a) Dueño del producto (Product Owner). Responsable de maximizar el valor del producto
+b) Scrum Master. Responsable de promover y apoyar Scrum.
+c) Equipo de desarrollo (Development Team). Profesionales que realizan el trabajo de entregar un incremento de producto “Terminado”.
+
+2 Eventos de Scrum
+
+En Scrum existen eventos predefinidos con el fin de crear regularidad y minimizar la necesidad de reuniones no definidas en Scrum.
+
+a) Sprint. Es el corazón de Scrum donde se crea un incremento del producto.
+b) Planificación de Sprint (Sprint planning). Ceremonia para definir qué se hará durante el sprint.
+c) Scrum Diario (Daily stan-up). Reunión diaria de todo el equipo de desarrollo.
+d) Revisión de Sprint (Sprint review). Es donde se muestra el incremento desarrollado durante el sprint.
+e) Retrospectiva de Sprint (Sprint retrospective). Oportunidad para aplicar mejora continua.
+
+3 Artefactos de Scrum
+
+Los artefactos de Scrum representan trabajo o valor en diversas formas que son útiles para proporcionar transparencia y oportunidad para la inspección y adaptación.
+Son aquellos elementos que definen que quiere el cliente, pero son visibles para todas las personas que trabajan en el proyecto.
+
+a) Lista del producto (Product Backlog). Es una lista ordenada de todo lo que se conoce que es necesario en el producto.
+b) Lista de pendientes del Sprint (Sprint Backlog). Elementos de la lista de producto seleccionados para el sprint.
+
+
+El backlog del sprint va a ser un subconjunto de elementos de la lista del producto y estas historias de usuario son las que vamos a trabajar y los objetivos que queremos cumplir.
+
+*Etapas intermedias:
+
+Historias de usuario
+Historias que hemos decidido trabajar
+Historias que están en progreso
+Historias que se van a empezar a probar
+Historias terminadas
+Trello es una buena herramienta para darle seguimiento a las actividades. Aqui les dejo un link del tablero que yo uso https://trello.com/b/2SFC7g8G/scrum-ejemplo
+
+Lista de pendientes del sprint debe estar lo suficientemente detallado para que el equipo sea capaz de comprenderlo en los daily stand-ups
+
+El dueño del backlog del sprint es el equipo de desarrollo, y ellos tienen control sobre esta lista y están en su derecho de rechazar otras historias. Sin embargo el Product owner podrá dialogar con el equipo para bajar la prioridad o eliminar historias de usuarios
+
+Como se define las prioridades:
+
+Valor para el cliente, que historias generan más valor al producto
+Urgencia, cuando algo tiene una fecha limite
+Riesgo / Oportunidad, definir el impacto que una historia puede tener sobre otras
+Esfuerzo que tanto trabajo le va a tomar al equipo desarrollar la historia
+
+
+Burn-Down chart: Un gráfico de trabajo pendiente a lo largo del tiempo, muestra la velocidad a la que se estan completando los objetivos. Permite extrapolar si el equipo podrá completarel trabajo en el tiempo estimado. Usualmente el trabajo remanente (backlog) se muestra en el eje vertical y el tiempo en el eje horizontal. Muy util para realizar adaptaciones entre los sprints.
+
+Burn-up chart: Muestra el trabajo aportado por el equipo a un proyecto agíl. Util para gestionar el trabajo porque permite tomar decisiones realistas acerca del trabajo pendiente y las expectativas del mismo. Ayuda a encontrar el ritmo sostenible del equipo. Además cuando la velocidad de éste se estabiliza (normalmenteal cabo de 4-5 sprints), podemos hacer un cálculo de cúando podría acabarse el proyecto.
+
+Diagrama de flujo acumulado: Proporciona una visualizacion concisa de las metricas de flujo. Muestra que tan estable es tu flujo y te ayuda a entender dónde concentrarse para hacer que tu proceso sea más predecible.
+
+La Restrospectiva es una ceremonia donde interactuamos con el cliente, el objetivo es tener retroalimentación rápida, normalmente se hace en el último día del sprint y revisaremos que hemos aprendido , le mostraremos al cliente que logramos desarrollar, se puede mostrar por partes durante la semana o todo al final del sprint. Ojo aquí no mostramos presentaciones o documentos, aquí solo se muestra el producto.
+
+Si no se logran cumplir los objetivos, tenemos que ser siempre transparentes y tratar de resolverlo par el siguiente sprint. Es una reunión informal y abierta al diálogo, no es una reunión de seguimiento.
+
+El Scrum Master es responsable de programar la reunión, al final de la reunión vamos a tener una lista de producto actualizada.
+
+Después del sprint review viene una retrospectiva, donde el equipo de scrum analiza las oportunidades de mejora, no buscamos culpables, buscar de forma positiva como se puede mejorar.
+
+Retrospectiva:
+
+Herramientas, tenemos todo lo necesario para cumplir nuestro objetivo
+Relaciones, son fluidas o hay problemas
+Personas, como es la interacción
+Procesos, todavía se ajustan al desarrollo
+Preguntarse:
+
+Qué hicimos bien?
+Qué hicimos mal?
+Qué podemos mejorar?
+
+En base a estas respuestas vamos a hacer un plan de acción para aplicar las correcciones necesarias a nuestros procesos.
+
+Las comunidades de práctica son grupos de personas que comparten un interés o una pasión por algo que hacen y aprenden a hacerlo mejor a medida van interactuando.
+
+El objetivo es aprender y buscar mejorar:
+
+Dominio, que nos gusta
+Práctica, como lo compartimos
+Comunidad, A quién le interesa
+Las comunidades se pueden dividir en:
+
+Basada en roles, enfocado a la especialización
+Basada en tópicos, enfocado a crear una comunidad sin importar el rol
+
+El sprint planning es la ceremonia donde definimos las HU que se van a desarrollar durante el srpint. Debe estar presente todo el equipo de Scrum: SM, PO y equipo de desarrollo.
+
+¿Qué duración debe tener el planning?
+No debe durar más de 8 horas para sprints de 4 semanas. Normalmente esta ceremonia puede durar 1 hora para un sprint de 2 semanas.
+Funciones del SM en el planning
+El Scrum Master es el encargado de organizar esta ceremonia, debe ser en un lugar adecuado, un salón lo suficientemente grande para el equipo, puede haber pizarrón, si se necesita sala de videoconferencia para hablar con un cliente. El Scrum Master debe encargarse de que todo esté y que todo funcione.
+
+Nadie puede responder correos, llamadas, ni mensajes, deben estar concentrados en el srpint planning, y todo el equipo debe estar concentrado en la misma actividad.
+Objetivos del planning
+¿Qué puede entregarse al final del sprint?
+Se toman las HU más prioritarias de la lista de producto.
+Se discute también el objetivo a lograr en el sprint.
+Saber la capacidad del equipo y la velocidad de la última iteración.
+¿Cómo se logrará hacer este trabajo?
+Las HU pasan de la lista de producto al backlog del srpint.
+Se hacen las estimaciones de esfuerzo.
+El PO se encarga de aclarar cualquier duda con una HU.
+Pueden haber invitados que aporten valor (cliente, usuario final).
